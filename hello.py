@@ -117,5 +117,7 @@ def main():
         else:
             print("잘못된 메뉴 선택입니다. 다시 시도해 주세요.")
 
+    print('hello yoori')
+
 if __name__ == "__main__":
     main()
